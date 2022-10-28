@@ -1,4 +1,4 @@
-<div>
+<div styles = "background-color: red">
   ## I'm Said 👋
   ### *An enthusiast in competitive programming* 👨‍💻 *and robotics* 🤖 </h3>
   #### *Computer engineering student at the Federal University of Itajubá [UNIFEI](https://unifei.edu.br/)*
