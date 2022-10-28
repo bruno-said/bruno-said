@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi ther 👋
+#### An enthusiast in competitive programming and robotics
 
 <!--
 **brsaidas/brsaidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
