@@ -1,5 +1,6 @@
 ## I'm Said 👋
 ### *An enthusiast in competitive programming and robotics*
+#### **Computer engineering student at the Federal University of Itajubá (UNIFEI)**
 
 #### Competitive Programming - Social
 * **Codeforces:** [saideira](https://codeforces.com/profile/saideira)
