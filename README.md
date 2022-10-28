@@ -1,4 +1,4 @@
-<div style="background-color:black;">
+<div style="background-color:red;">
   Ola mundo
 </div>
 <!--<div styles = "background-color: red">
