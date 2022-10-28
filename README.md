@@ -9,8 +9,8 @@
 * **Beecrowd:** [saideira](https://www.beecrowd.com.br/judge/pt/profile/570489)
 * **HackeRank:** [saideira]()
 
-#### Studying Language
-##### C/C++, Haskell, Java, HTML, CSS, JavaScript, ReactJS, NextJS, Ruby, 
+#### My Life in Programming Language
+##### C -> C++ -> Haskell -> Java -> HTML -> CSS -> JavaScript -> ReactJS -> NextJS ... 
 
 <!--
 **brsaidas/brsaidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
