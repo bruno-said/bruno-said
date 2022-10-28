@@ -3,12 +3,12 @@
 #### *Computer engineering student at the Federal University of Itajubá [UNIFEI](https://unifei.edu.br/)*
 
 #### Competitive Programming - Social
-* **Codeforces:** [saideira](https://codeforces.com/profile/saideira)
-* **CodeChef:** [saideira](https://www.codechef.com/users/saideira)
 * **AtCoder:** [saideira](https://atcoder.jp/users/saideira)
-* **Neps Academy:** [saideira](https://neps.academy/br/user/20159)
 * **Beecrowd:** [saideira](https://www.beecrowd.com.br/judge/pt/profile/570489)
+* **CodeChef:** [saideira](https://www.codechef.com/users/saideira)
+* **Codeforces:** [saideira](https://codeforces.com/profile/saideira)
 * **HackerRank:** [saideira](https://www.hackerrank.com/saideira)
+* **Neps Academy:** [saideira](https://neps.academy/br/user/20159)
 
 #### My Life in Programming Language
 ##### C ➜ C++ ➜ Haskell ➜ Java ➜ HTML ➜ CSS ➜ JavaScript ➜ ReactJS ➜ NextJS ➜ ... 
