@@ -1,4 +1,4 @@
-### Hi ther 👋
+### I'm Said 👋
 #### An enthusiast in competitive programming and robotics
 
 <!--
