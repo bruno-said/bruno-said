@@ -1,6 +1,8 @@
 ### I'm Said 👋
 #### *An enthusiast in competitive programming and robotics*
 
+Codeforces: [saideira](https://codeforces.com/profile/saideira)
+
 <!--
 **brsaidas/brsaidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
