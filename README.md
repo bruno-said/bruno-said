@@ -1,11 +1,11 @@
 ### I'm Said 👋
 #### *An enthusiast in competitive programming and robotics*
 
-**Codeforces:** [saideira](https://codeforces.com/profile/saideira)
-**CodeChef:** [saideira](https://www.codechef.com/users/saideira)
-**AtCoder:** [saideira](https://atcoder.jp/users/saideira)
-**Neps Academy:** [saideira](https://neps.academy/br/user/20159)
-**Beecrowd:** [saideira](https://www.beecrowd.com.br/judge/pt/profile/570489)
+* **Codeforces:** [saideira](https://codeforces.com/profile/saideira)
+* **CodeChef:** [saideira](https://www.codechef.com/users/saideira)
+* **AtCoder:** [saideira](https://atcoder.jp/users/saideira)
+* **Neps Academy:** [saideira](https://neps.academy/br/user/20159)
+* **Beecrowd:** [saideira](https://www.beecrowd.com.br/judge/pt/profile/570489)
 
 <!--
 **brsaidas/brsaidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
