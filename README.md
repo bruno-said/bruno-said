@@ -1,5 +1,5 @@
-## I'm Said 👋
-### *An enthusiast in competitive programming* 👨‍💻 *and robotics* 🤖
+<h2> I'm Said 👋 </h2>
+<h3> *An enthusiast in competitive programming* 👨‍💻 *and robotics* 🤖 </h3>
 #### *Computer engineering student at the Federal University of Itajubá [UNIFEI](https://unifei.edu.br/)*
 
 #### Competitive Programming - Social
