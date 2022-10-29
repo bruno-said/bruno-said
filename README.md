@@ -11,7 +11,7 @@
 * **Neps Academy:** [saideira](https://neps.academy/br/user/20159)
 
 #### My Life in Programming Language
-##### C ➜ C++ ➜ Haskell ➜ Java ➜ HTML ➜ CSS ➜ JavaScript ➜ ReactJS ➜ NextJS ➜ ... 
+##### C ➜ C++ ➜ React Native ➜ Haskell ➜ Java ➜ Python ➜ HTML ➜ CSS ➜ JavaScript ➜ ReactJS ➜ NextJS ➜ ... 
 
 ## Contatos: 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunosaidalvesdesouza@gmail.com)
