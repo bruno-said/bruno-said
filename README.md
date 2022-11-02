@@ -1,6 +1,6 @@
 ## I'm Said 👋
 ### *An enthusiast in competitive programming* 👨‍💻 *and robotics* 🤖 </h3>
-#### *Computer engineering student at the Federal University of Itajubá [UNIFEI](https://unifei.edu.br/)*
+#### *Computer Engineering student at the Federal University of Itajubá [UNIFEI](https://unifei.edu.br/)*
 
 #### Competitive Programming - Social
 * **AtCoder:** [saideira](https://atcoder.jp/users/saideira)
