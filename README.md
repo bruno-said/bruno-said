@@ -14,5 +14,7 @@
 ##### C ➜ C++ ➜ React Native ➜ Haskell ➜ Java ➜ Python ➜ HTML ➜ CSS ➜ JavaScript ➜ ReactJS ➜ NextJS ➜ ... 
 
 ## Contacts: 
-[![gmail](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-said-58bb04255/)
+
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunosaidalvesdesouza@gmail.com)
+[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-said-58bb04255/)
+[![youtube](https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnyakmAOPhSMTr9HILjjmYA/featured)
