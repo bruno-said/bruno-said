@@ -3,8 +3,11 @@
 **An enthusiast in competitive programming** 👨‍💻 **and robotics** 🤖 <br>
 **Computer Engineering student at the Federal University of Itajubá [UNIFEI](https://unifei.edu.br/)**
 
-## 🥇Competitive Programming - Social
-**AtCoder:** [saideira](https://atcoder.jp/users/saideira) | **Beecrowd:** [saideira](https://www.beecrowd.com.br/judge/pt/profile/570489) | **CodeChef:** [saideira](https://www.codechef.com/users/saideira) | **Codeforces:** [saideira](https://codeforces.com/profile/saideira) | **HackerRank:** [saideira](https://www.hackerrank.com/saideira) | **Neps Academy:** [saideira](https://neps.academy/br/user/20159)
+## 🏆 Competitive Programming - Social
+[![codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/saideira)
+[![codechef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/saideira)
+[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/saideira)
+**AtCoder:** [saideira](https://atcoder.jp/users/saideira) | **Beecrowd:** [saideira](https://www.beecrowd.com.br/judge/pt/profile/570489) | **Neps Academy:** [saideira](https://neps.academy/br/user/20159)
 
 ## ⚡ Status
 
@@ -31,6 +34,6 @@
   
 ## 📞 Contacts: 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunosaidalvesdesouza@gmail.com)
-[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-said-58bb04255/)
-[![youtube](https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnyakmAOPhSMTr9HILjjmYA/featured)
-[![instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brsaidas/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-said-58bb04255/)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnyakmAOPhSMTr9HILjjmYA/featured)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brsaidas/)
