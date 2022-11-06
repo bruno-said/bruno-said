@@ -1,4 +1,4 @@
-## I'm Bruno Said 👋
+## Hi I'm Bruno Said 👋
 
 **An enthusiast in competitive programming** 👨‍💻 **and robotics** 🤖 <br>
 **Computer Engineering student at the Federal University of Itajubá [UNIFEI](https://unifei.edu.br/)**
