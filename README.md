@@ -11,8 +11,6 @@
 [![atcoder](./badges/badge-atcoder.svg)](https://atcoder.jp/users/saideira)
 [![beecrowd](./badges/badge-beecrowd.svg)](https://www.beecrowd.com.br/judge/pt/profile/570489)
 
-**AtCoder:** [saideira](https://atcoder.jp/users/saideira) | **Beecrowd:** [saideira](https://www.beecrowd.com.br/judge/pt/profile/570489)
-
 ## ⚡ Status
 
 <div align="center">
