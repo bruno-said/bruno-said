@@ -1,8 +1,10 @@
 <h1 align="center">Hi I'm Bruno Said 👋</h1>
 
-**An enthusiast in competitive programming** 👨‍💻 **and robotics** 🤖 <br>
-**Computer Engineering student at the Federal University of Itajubá [UNIFEI](https://unifei.edu.br/)**
-
+<div align="center">
+  <b>An enthusiast in competitive programming 👨‍💻 and robotics 🤖</b><br>
+  <b>Computer Engineering student at the Federal University of Itajubá <a href="https://unifei.edu.br/">UNIFEI</a></b>
+</div>
+  
 ## 🏆 Competitive Programming - Social
 [![codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/saideira)
 [![nepsacademy](./badges/badge-neps-academy.svg)](https://neps.academy/br/user/20159)
