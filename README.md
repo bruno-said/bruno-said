@@ -5,10 +5,10 @@
 
 ## 🏆 Competitive Programming - Social
 [![codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/saideira)
-[![codechef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/saideira)
-[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/saideira)
 [![nepsacademy](./badges/badge-neps-academy.svg)](https://neps.academy/br/user/20159)
+[![codechef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/saideira)
 [![atcoder](./badges/badge-atcoder.svg)](https://atcoder.jp/users/saideira)
+[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/saideira)
 [![beecrowd](./badges/badge-beecrowd.svg)](https://www.beecrowd.com.br/judge/pt/profile/570489)
 
 ## ⚡ Status
