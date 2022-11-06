@@ -9,7 +9,7 @@
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/saideira)
 [![nepsacademy](./badges/badge-neps-academy.svg)](https://neps.academy/br/user/20159)
 [![atcoder](./badges/badge-atcoder.svg)](https://atcoder.jp/users/saideira)
-<!-- [![beecrowd](./badges/badge-beecrowd.svg)](https://www.beecrowd.com.br/judge/pt/profile/570489) -->
+[![beecrowd](./badges/badge-beecrowd.svg)](https://www.beecrowd.com.br/judge/pt/profile/570489)
 
 ## ⚡ Status
 
