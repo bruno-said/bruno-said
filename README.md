@@ -48,6 +48,7 @@
   <a href="https://www.linkedin.com/in/bruno-said-58bb04255/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCnyakmAOPhSMTr9HILjjmYA/featured"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.instagram.com/brsaidas/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://open.spotify.com/playlist/36PUd59jcohMoOw433H0il?si=Z3GDPcbrTU69E2MAzwTHtw&utm_source=copy-link&nd=1"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 </div>
   
 ![Snake animation](https://github.com/brsaidas/brsaidas/blob/output/github-contribution-grid-snake.svg)
