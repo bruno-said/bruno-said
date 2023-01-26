@@ -2,7 +2,7 @@
 
 <div align="center">
   <b>An enthusiast in competitive programming 👨‍💻 and robotics 🤖</b><br>
-  <b>Computer Engineering student at the Federal University of Itajubá <a href="https://unifei.edu.br/">UNIFEI</a></b>
+  <b>Computer Engineering student at the Federal University of Ceará <a href="https://www.ufc.br/">UFC</a></b>
 </div>
   
 ## 🏆 Competitive Programming - Social
