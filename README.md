@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Bruno Said 👋</h1>
 
 <div align="center">
-  <b>An enthusiast in competitive programming 👨‍💻 and robotics 🤖</b><br>
+  <b>An enthusiast in aerospace development 🚀 and robotics 🦾</b><br>
   <b>Computer Engineering student at the Federal University of Ceará <a href="https://www.ufc.br/">UFC</a></b>
 </div>
   
