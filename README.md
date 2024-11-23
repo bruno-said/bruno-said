@@ -19,10 +19,10 @@
 ## ⚡ Status
 
 <div align="center">
-  <a href="https://github.com/brsaidas">
+  <a href="https://github.com/bruno-said">
   <img height="180em" 
-       src="https://github-readme-stats-eight-theta.vercel.app/api?username=brsaidas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brsaidas&layout=compact&langs_count=7&theme=tokyonight"/>
+       src="https://github-readme-stats-eight-theta.vercel.app/api?username=bruno-said&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bruno-said&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## 😊 My Life in Programming Language
