@@ -25,9 +25,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bruno-said&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## 😊 My Life in Programming Language
+<!-- ## 😊 My Life in Programming Language -->
   
-<div align="center" style="display: inline_block"><br>
+<!-- <div align="center" style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
@@ -40,8 +40,8 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <!-- <img align="right" height="100" style="border-radius:50px;" src="gif/tartaruga-ninja.gif"> -->
-</div>
+  <img align="right" height="100" style="border-radius:50px;" src="gif/tartaruga-ninja.gif">
+</div> -->
   
 ## 📞 Contacts: 
 
